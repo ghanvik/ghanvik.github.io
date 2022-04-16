@@ -28,10 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ghanvik
 
 # Build settings
-theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
+#theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
-remote_theme: fongandrew/hydeout
+
 
 paginate: 5
 
