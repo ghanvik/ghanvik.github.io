@@ -66,6 +66,8 @@ GEM
       jekyll-feed (~> 0.6)
       jekyll-gist (~> 1.4)
       jekyll-paginate (~> 1.1)
+    jekyll-theme-simplex (0.9.8.15)
+      jekyll (~> 4.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.2)
@@ -115,7 +117,8 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.2.2)
   jekyll-feed (~> 0.12)
-  jekyll-theme-hydeout
+  jekyll-theme-hydeout (~> 4.1)
+  jekyll-theme-simplex
   minima (~> 2.5)
   texture
   tzinfo (~> 1.2)
