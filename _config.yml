@@ -29,7 +29,7 @@ github_username:  ghanvik
 
 # Build settings
 remote_theme: fongandrew/hydeout
-theme: jekyll-theme-hydeout
+#theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
