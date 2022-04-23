@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started with StoryGraph"
-date:   2022-04-15 12:00:00 -0700
+date:   2022-04-10 12:00:00 -0700
 categories: user-guides
 ---
 
