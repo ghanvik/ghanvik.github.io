@@ -35,4 +35,4 @@ I decided that a flowchart would be the best way to represent the choices involv
 
 Each box contains a yes-or-no question, which leads to the next question the dupe checker needs to ask, and finally ends with how the dupe checker should handle the outcome. This is accompanied by paragraphs to explain processes that need more detail. One of the outcomes in the bottom box asks the reader to refer to one of these sections.
 
-Finally, I combined my guide with my colleague's guide to create a complete guide of about 7 pages. I wrote 4 of those pages.
+Finally, I combined my guide with my colleague's guide to create a complete guide of 7 pages. I wrote 4 of those pages.
