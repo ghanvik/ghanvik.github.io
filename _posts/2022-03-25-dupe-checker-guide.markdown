@@ -13,7 +13,7 @@ Since I cannot share the document publicly, I have written this entry to explain
 
 There was no comprehensive dupe checking manual before I joined the team. There were some trainings, but they did not cover all the possible cases a dupe checker may encounter. My colleague had made a guide, but it did not cover every step in the process. Dupe checking involves verifying a candidate's information across multiple systems, merging profiles when duplicates are encountered, and changing a candidate's status in Beamery.
 
-There are many possible places a dupe checker can get confused or make an error. There are two main systems The systems could sometimes behave in unexpected ways. Some candidates who had common names were difficult to dupe check because of how many possibilities came up.
+There are many possible places a dupe checker can get confused or make an error. There are two main systems to track candidate profiles, Amazon Hire and Beamery. The systems could sometimes behave in unexpected ways. Some candidates who had common names were difficult to dupe check because of how many possibilities came up.
 
 # Audience
 
@@ -33,6 +33,6 @@ I decided that a flowchart would be the best way to represent the choices involv
 
 ![Dupe Checking Flowchart](/images/flowchart.png "Dupe Checking Flowchart")
 
-Each box contains a yes-or-no question, which leads to the next question the dupe checker needs to ask, and finally ends with how the dupe checker should handle the outcome. This is accompanied by paragraphs processes that need more detail. One of the outcomes in the bottom box asks the reader to refer to one of these sections.
+Each box contains a yes-or-no question, which leads to the next question the dupe checker needs to ask, and finally ends with how the dupe checker should handle the outcome. This is accompanied by paragraphs to explain processes that need more detail. One of the outcomes in the bottom box asks the reader to refer to one of these sections.
 
-Finally, I combined my guide with my colleague's guide to create a primary guide of about 7 pages. I wrote 4 of those pages.
+Finally, I combined my guide with my colleague's guide to create a complete guide of about 7 pages. I wrote 4 of those pages.
