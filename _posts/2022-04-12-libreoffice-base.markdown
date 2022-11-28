@@ -3,6 +3,7 @@ layout: post
 title:  "Editing the LibreOffice Base Guide"
 date:   2022-03-12 12:00:00 -0700
 categories: journal-entries
+published: false
 ---
 In the past couple of months, I have spent some free time contributing to the [LibreOffice](https://documentation.libreoffice.org/en/english-documentation/) open-source community. Per the suggestion of a member of the docs team, I started by reading through a couple of chapters of the work-in-progress Base 7.3 User Guide. Base is a database frontend similar to Microsoft Access. This journal article discusses my process for editing the guide and what I've learned.
 
