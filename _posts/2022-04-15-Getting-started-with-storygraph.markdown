@@ -3,6 +3,7 @@ layout: post
 title:  "Getting Started with StoryGraph"
 date:   2022-04-10 12:00:00 -0700
 categories: user-guides
+published: false
 ---
 
 Thanks to Amruta Ranade for the [writing prompt](https://techwriting.ck.page/posts/ask-me-anything-about-tech-writing-portfolios)!
