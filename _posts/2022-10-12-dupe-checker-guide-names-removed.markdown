@@ -2,7 +2,7 @@
 layout: post
 title:  "Dupe Checker Guide (Anonymized)"
 date:   2022-10-12 12:00:00 -0700
-categories: journal-entries
+categories: user-guides
 ---
 
 # Contents
